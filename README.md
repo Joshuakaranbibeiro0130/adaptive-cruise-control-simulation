@@ -35,4 +35,4 @@ Based on this data, the controller dynamically adjusts throttle or braking to ma
 - Real-time vehicle control integration
 
 ## Author
-Joshua Karlin Bibeiro
+Joshua Karan Bibeiro
